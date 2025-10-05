@@ -3,7 +3,7 @@ This project was developed as part of a university assignment and focuses on usi
 
 The goal was to automate the detection of new tiles placed on the board, identify the numbers on them, and calculate player scores based on game logic — all from sequential images of the game board.
 
-🔍 Key Features
+*Key Features
 
 Board Extraction: Detects and isolates the playing area from fixed-angle photos using OpenCV contour detection and perspective transforms.
 
@@ -15,7 +15,7 @@ Game Logic Integration: Calculates scores according to Mathable rules, including
 
 Automated Workflow: Processes all input images and outputs text files containing player moves and cumulative scores.
 
-🧠 Technologies Used
+*Technologies Used
 
 Python
 
